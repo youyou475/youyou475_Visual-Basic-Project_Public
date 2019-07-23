@@ -1,2 +1,4 @@
-# youyou475_Visual-Basic-Project_Public
-Some interesting projects.Only for test.
+CH Version
+简易计算器
+最新版本：V1.0
+更新时间：2019.07.23
